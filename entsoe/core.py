@@ -1,5 +1,5 @@
 
-from entsoe import keys
+from . import keys
 import sys
 from datetime import date, datetime, timedelta
 from enum import Enum
